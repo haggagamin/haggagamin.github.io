@@ -13,14 +13,14 @@ safe: true
 # edit here to achieve your personal greatness
 url: mhamin10.github.io
 baseurl:
-title: Mohamed H. Amin
-author: Mohamed H. Amin
+title: Mohamed Haggag Amin
+author: Mohamed Haggag Amin
 description: Personal Site
 avatar: picture.jpg
 email: mh.amin@live.com
-github: mhamin10 # username
-twitter: mhamin10
-linkedin: mhamin
+github: haggamin # username
+twitter: haggamin
+linkedin: haggamin
 #stackoverflow:   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus:
