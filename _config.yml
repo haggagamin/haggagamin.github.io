@@ -11,17 +11,17 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: mhagamin.github.io
+url: haggagamin.github.io
 baseurl: /
 title: Mohamed Haggag Amin
 author: Mohamed Haggag Amin
 description: Personal Site
 avatar: picture.jpg
-email: mhagamin@gmail.com
-github: mhagamin # username
-twitter: mhagamin
-linkedin: mhagamin
-stackoverflow: users/4028199/mhagamin  #e.g: users/2735833/proton1h1
+email: mh.amin@live.com
+github: haggagamin # username
+twitter: haggagamin
+linkedin: haggagamin
+#stackoverflow: users/4028199/mhagamin  #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus:
 #google_analytics:
