@@ -11,16 +11,16 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: maminca.github.io
+url: mamintech.github.io
 baseurl: /
 title: Mohamed Amin
 author: Mohamed Amin
 description: Personal Site
 avatar: picture.jpg
 email: mh.amin@live.com
-# github: mamintech # username
-# twitter: mamintech
-# linkedin: mamintech
+#github: mamintech # username
+#twitter: mamintech
+#linkedin: mamintech
 #stackoverflow: users/4028199/mhagamin  #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus:
