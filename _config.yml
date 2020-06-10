@@ -11,20 +11,20 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: mhagamin.github.io
+url: mohamedamin.com
 baseurl:
-title: Mohamed Amin
-author: Mohamed Amin
-description: Personal Site
+title: Mohamed Haggag Amin
+author: Mohamed Haggag Amin
+description: Mohamed Haggag Amin
 avatar: picture.jpg
 email: mh.amin@live.com
-github: mhagamin # username
+github: haggagamin # username
 #twitter:
-linkedin: mhagamin
+linkedin: haggagamin
 #stackoverflow:   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus:
-google_analytics: UA-69391421-1
+#google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
