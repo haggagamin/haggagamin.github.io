@@ -11,16 +11,16 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: mamin.dev
+url: mohamedamin.com
 baseurl: /
-title: Mohamed Amin
-author: Mohamed Amin
-description: Mohamed Amin
+title: Mohamed Haggag Amin
+author: Mohamed Haggag Amin
+description: Mohamed Haggag Amin
 avatar: picture.jpg
 #email: mh.amin@live.com
-github: mamindev # username
-twitter: mamindev
-linkedin: mamindev
+github: haggagamin # username
+#twitter: mamindev
+linkedin: haggagamin
 #stackoverflow: users/4028199/mhagamin  #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus:
